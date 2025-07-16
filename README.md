@@ -154,16 +154,11 @@ SpyGlass is a secure, open-source platform for creating, sharing, and managing s
 3. Write clear commit messages and document your code.
 4. Submit a pull request with a detailed description.
 
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
 ## Credits
-- **Core Developer**: [Your Name Here]
+- **Core Developer**: Kshitij Moghe
 - **AI Integration**: Google Gemini
 - **Frameworks**: Django, Django REST Framework, Flutter
 - **UI/UX**: Material Design, AutoRoute
